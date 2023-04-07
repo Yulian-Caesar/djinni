@@ -1,0 +1,34 @@
+// custom variables
+$primary: #ED7135;
+$secondary: #666666;
+$dark: #292929;
+$gray1: #EEEEEE;
+
+// $nav-link-font-weight: 700;
+
+// $nav-tabs-border-width: 0;
+$nav-link-color: $secondary;
+$nav-link-hover-color: $primary;
+$nav-tabs-link-active-color: $dark;
+$nav-link-padding-y: 0;
+$nav-link-padding-x: 0.75rem;
+$input-border-radius: 1.5rem;
+$input-group-addon-bg: $gray1;
+$input-bg: $gray1;
+$input-border-width: 0;
+$input-focus-box-shadow: none;
+$input-group-addon-padding-x: 1rem;
+$input-placeholder-color: $secondary;
+$form-select-focus-box-shadow: none;
+$form-select-border-radius: 0;
+$link-decoration: none;
+$link-color: $secondary;
+$link-hover-color: $primary;
+$form-select-bg-position: right 0.25rem center;
+$form-select-indicator-padding: 1.25rem;
+$form-select-bg-size: 0.75rem;
+$form-select-bg: #fff;
+
+// import bootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
